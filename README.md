@@ -3,7 +3,7 @@ This project uses Random Forest to detect fraud in financial transactions. The m
 
 
 # **Dataset Description**
-The project leverages a dataset of financial transactions to train and evaluate the fraud detection model. The dataset includes features such as transaction type, amount, time, and account balances. The dataset can be assessed from here: https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0
+The project leverages a dataset of financial transactions to train and evaluate the fraud detection model. The dataset includes features such as transaction type, amount, time, and account balances. The dataset can be accessed from here: https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0
 
 
 # **Objective**
